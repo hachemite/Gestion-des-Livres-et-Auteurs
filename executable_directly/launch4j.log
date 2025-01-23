@@ -1,0 +1,57 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\squal\Downloads\Nouveau dossier (5)\projet.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.000.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;F:\matlab software\bin;C:\MATLAB\R2022b\runtime\win64;C:\MATLAB\R2022b\bin;C:\matlab\runtime\win64;C:\matlab\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\HP\HP One Agent;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;C:\Program Files\Mullvad VPN\resources;C:\Users\squal\.console-ninja\.bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\squal\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.3\bin;C:\Users\squal\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\squal\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\squal\AppData\Roaming\npm;C:\Program Files\JetBrains\WebStorm 2024.2.4\bin;;C:\Program Files\Java\jdk-22\bin
+JRE paths:	;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Python311\Scripts\;C:\Program Files\Python311\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;F:\matlab software\bin;C:\MATLAB\R2022b\runtime\win64;C:\MATLAB\R2022b\bin;C:\matlab\runtime\win64;C:\matlab\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Program Files\Wolfram Research\WolframScript\;C:\Program Files\HP\HP One Agent;C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\PowerShell\7\;C:\Program Files\Git\cmd;C:\Program Files\Mullvad VPN\resources;C:\Users\squal\.console-ninja\.bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\squal\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.3\bin;C:\Users\squal\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\squal\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe;C:\Users\squal\AppData\Roaming\npm;C:\Program Files\JetBrains\WebStorm 2024.2.4\bin;;C:\Program Files\Java\jdk-22\bin
+Check launcher:	C:\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python312\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Python311\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Python311\bin\javaw.exe (not found)
+Check launcher:	C:\windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\windows\bin\javaw.exe (not found)
+Check launcher:	C:\windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\IVI Foundation\VISA\Win64\Bin\bin\javaw.exe (not found)
+Check launcher:	F:\matlab software\bin\javaw.exe (not found)
+Check launcher:	C:\MATLAB\R2022b\runtime\win64\bin\javaw.exe (not found)
+Check launcher:	C:\MATLAB\R2022b\bin\javaw.exe (not found)
+Check launcher:	C:\matlab\runtime\win64\bin\javaw.exe (not found)
+Check launcher:	C:\matlab\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Docker\Docker\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\GtkSharp\2.12\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Wolfram Research\WolframScript\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\HP\HP One Agent\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA app\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\chocolatey\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\PowerShell\7\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Mullvad VPN\resources\bin\javaw.exe (not found)
+Check launcher:	C:\Users\squal\.console-ninja\.bin\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\MySQL\MySQL Shell 8.0\bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\squal\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\IntelliJ IDEA 2024.2.3\bin\javaw.exe (not found)
+Check launcher:	C:\Users\squal\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\squal\AppData\Local\Microsoft\WinGet\Packages\Schniz.fnm_Microsoft.Winget.Source_8wekyb3d8bbwe\bin\javaw.exe (not found)
+Check launcher:	C:\Users\squal\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\JetBrains\WebStorm 2024.2.4\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe (OK)
+Version string: 1.022.000_002 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-22\bin\javaw.exe
+Launcher args:	-jar "C:\Users\squal\Downloads\Nouveau dossier (5)\projet.exe"
+Args length:	62/32768 chars
+Exit code:	0
